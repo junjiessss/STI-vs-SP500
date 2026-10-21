@@ -1,5 +1,3 @@
-# Did STI index performed better than the S&P500 in 2026?
-
 # STI vs S&P 500 in 2026: Who Is Carrying the Index?
 
 Compares the year-to-date price return of the Straits Times Index (STI)
