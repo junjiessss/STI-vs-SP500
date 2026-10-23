@@ -1,4 +1,5 @@
-# STI vs S&P 500 in 2026: Who Is Carrying the Index? Also who is the deadweight?
+# STI vs S&P 500 in 2026: Who Is Carrying the Index?
+Also who is the deadweight?
 
 Compares the year-to-date price return of the Straits Times Index (STI)
 and the S&P 500 from 31 Dec 2025 to 20 Oct 2026, and shows which stocks
